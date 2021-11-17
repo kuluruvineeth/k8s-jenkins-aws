@@ -8,6 +8,6 @@ public class JhooqDockerDemoController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "JENKINS CI/CD PIPELINE ASSIGNMENT1 ------------ Hello - vineethkarthick-k8s i Have updated the message.I did learn fairly early that the best and most effective way to lead is by letting people do things because they want to do them, not because you want them to. The best leaders also know when they are wrong, and are capable of pulling themselves out. And the best leaders enable others to make decisions for them";
+        return "JENKINS CI/CD PIPELINE ASSIGNMENT1 OF DEVOPS ELECTIVE COURSE ------------ Hello - vineethkarthick-k8s i Have updated the message.I did learn fairly early that the best and most effective way to lead is by letting people do things because they want to do them, not because you want them to. The best leaders also know when they are wrong, and are capable of pulling themselves out. And the best leaders enable others to make decisions for them";
     }
 }
